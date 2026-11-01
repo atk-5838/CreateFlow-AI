@@ -1,0 +1,8 @@
+{
+  "name": "CreatorFlow AI",
+  "description": "AI-powered brand collaboration workspace for content creators. Centralise brand deals, inbox, deliverables, revisions, payments, and files in one intelligent workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
